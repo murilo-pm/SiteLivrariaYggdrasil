@@ -1,2 +1,2 @@
-# 💡SiteLivrariaYggdrasil
-Primeiro site criado com o framework BootStrap
+# exercicioLandingPage
+Construção de uma página web com framework BootStrap
